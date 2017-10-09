@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--100% — FF-->
+    <!--95% — F2-->
+    <!--90% — E6-->
+    <!--85% — D9-->
+    <!--80% — CC-->
+    <!--75% — BF-->
+    <!--70% — B3-->
+    <!--65% — A6-->
+    <!--60% — 99-->
+    <!--55% — 8C-->
+    <!--50% — 80-->
+    <!--45% — 73-->
+    <!--40% — 66-->
+    <!--35% — 59-->
+    <!--30% — 4D-->
+    <!--25% — 40-->
+    <!--20% — 33-->
+    <!--15% — 26-->
+    <!--10% — 1A-->
+    <!--5% — 0D-->
+    <!--0% — 00-->
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="line_name">#e8e7ef</color>
+    <color name="pink">#FF2D2D</color>
+    <color name="gray">#888888</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="lightblue">#D0E9FF</color>
+    <color name="grey">#929292</color>
+    <color name="circle_color">#43B4FA</color>
+    <color name="main_bg">#FFFFFF</color>
+    <color name="progressbar_progress">#f9b441</color>
+    <color name="progressbar_bg">#F2F2F2</color>
+    <color name="text_item_dark_grey">#666666</color>
+    <color name="tab_blue">#0d9cf3</color>
+    <color name="orange">#FF9A32</color>
+    <color name="transparent">#00000000</color>
+    <color name="frag_text_color">#595758</color>
+    <color name="gray_black">#808080</color>
+    <color name="bg_blue">#00aaee</color>
+    <color name="text_blue">#01AAEF</color>
+    <color name="light_gray">#E8E8E8</color>
+    <color name="white_20">#33FFFFFF</color>
+    <!-- 线条色 -->
+    <color name="line">#c9c9c9</color>
+    <color name="blue">#0079ff</color>
+    <color name="province_line_border">#C7C7C7</color>
+    <color name="font_info">#999</color>
+    <color name="error_color">#FF4081</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="font_text">#666</color>
+    <color name="pickerview_timebtn_nor">#057dff</color>
+    <color name="pickerview_timebtn_pre">#c2daf5</color>
+    <color name="bgcolor">#ECECEC</color>
+    <color name="show_alert">#646464</color>
+
+    <!--背景色-->
+
+    <color name="white_90">#E6ffffff</color>
+    <color name="red">#e61616</color>
+    <color name="border">#ff9079</color>
+    <color name="red_share">#c92d3a</color>
+    <color name="red_ad">#be271c</color>
+    <color name="backgroud">#f4f4f4</color>
+    <color name="title">#333333</color>
+    <color name="amont_of_loan_textcolor">#333333</color>
+    <color name="home_loan_period_textcolor">#666666</color>
+    <color name="btn_backgroun">#F39800</color>
+    <color name="btn_frame">#fdd28a</color>
+    <color name="hint_text_color">#999999</color>
+    <color name="lightgray">#cccccc</color>
+    <color name="lightgrays">#999999</color>
+    <color name="name">#333333</color>
+    <color name="register_hint">#999999</color>
+    <color name="register_line">#dddddd</color>
+    <color name="register_line_light">#ededed</color>
+    <color name="basic_infor">#f39800</color>
+    <color name="button_pressed">#f38400</color>
+    <color name="loan_bg">#f4f4f4</color>
+    <color name="cut_off_rule">#f2f2f2</color>
+    <color name="line_f2">#f2f2f2</color>
+    <color name="fontcolor">#5f91eb</color>
+    <color name="translucent70">#B3000000</color>
+    <color name="count_down">#fb7c21</color>
+    <color name="credent_success">#80D049</color>
+    <color name="credent_fail">#DF3536</color>
+    <color name="credenting">#5F91EB</color>
+    <color name="light_blue">#60D1FF</color>
+    <color name="light_grey">#4A4A4A</color>
+    <color name="super_light_grey">#9B9B9B</color>
+    <color name="dark_grey">#030303</color>
+    <color name="register_popow">#000000</color>
+    <color name="notice_bg">#fff9ed</color>
+    <color name="notice_text">#ffab3d</color>
+    <color name="line_name_unselect">#e8e7ef</color>
+    <color name="seekbar">#ff9079</color>
+    <color name="home_msg_clor">#ff9079</color>
+    <color name="apply_end_color">#3bc9e9</color>
+    <color name="remind_bg">#2d9f9c</color>
+    <color name="remind_text">#3bc9e9</color>
+
+    <color name="usage_bg1">#ff708d</color>
+    <color name="usage_bg2">#ffa36d</color>
+
+    <color name="guide_text">#5F91EB</color>
+    <color name="yj">#ffa16e</color>
+    <color name="alter_clor">#ff9079</color>
+    <color name="info_alter">#5281E9</color>
+    <color name="dialog_clor">#000000</color>
+    <color name="xy_clor">#3bc9e9</color>
+
+</resources>

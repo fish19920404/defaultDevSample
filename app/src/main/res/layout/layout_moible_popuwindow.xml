@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom|center_horizontal"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shaper_corner_white"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/tv_message"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="请拨打手机运营商客服电话进行密码重置"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                android:padding="20dp"/>
+
+           <View
+               android:layout_width="match_parent"
+               android:layout_height="1px"
+               android:background="@color/register_hint"
+               />
+            <TextView
+                android:id="@+id/tv_move"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="移动 10086"
+                android:textColor="@color/blue"
+                android:textSize="16sp"
+                android:padding="15dp"
+                />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/register_hint"
+                />
+            <TextView
+            android:id="@+id/tv_unicom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="联通 10010"
+            android:textColor="@color/blue"
+            android:textSize="16sp"
+            android:padding="15dp"
+            />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/register_hint"
+                />
+            <TextView
+                android:id="@+id/tv_telecommunication"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="联通 10001"
+                android:textColor="@color/blue"
+                android:textSize="16sp"
+                android:padding="15dp"
+                />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/register_hint"
+                />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="取消"
+            android:textColor="@color/blue"
+            android:textSize="16sp"
+            android:padding="15dp"
+            android:background="@drawable/shaper_corner_white"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/shaper_corner_white"
+                android:orientation="vertical"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp">
+
+                <TextView
+                    android:id="@+id/tv_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/transparent"
+                    android:gravity="center"
+                    android:text="信息确认"
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/reminder"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/transparent"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="根据您的资料，申请额度进行调整"
+                    android:textColor="@color/info_alter"
+                    android:textSize="15sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:background="@color/transparent"
+                    android:gravity="center"
+                    android:text="信息一旦确认将不可更改"
+                    android:textColor="@color/font_text"
+                    android:textSize="13sp" />
+
+                <include layout="@layout/line_d" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/white"
+                    android:orientation="vertical"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp">
+
+                    <RelativeLayout style="@style/confirmation_loan_outer">
+
+                        <TextView
+                            style="@style/confirmation_loan_left"
+                            android:text="借款金额"
+                            android:textColor="@color/font_text" />
+
+                        <TextView
+                            android:id="@+id/amount"
+                            style="@style/confirmation_loan_right"
+                            android:text=""
+                            android:textColor="@color/font_text" />
+                    </RelativeLayout>
+
+                    <include layout="@layout/line_d" />
+
+                    <RelativeLayout
+                        android:id="@+id/rl_period"
+                        style="@style/confirmation_loan_outer">
+
+                        <TextView
+                            style="@style/confirmation_loan_left"
+                            android:text="借款期限"
+                            android:textColor="@color/font_text" />
+
+                        <TextView
+                            android:id="@+id/periods"
+                            style="@style/confirmation_loan_right"
+                            android:text=""
+                            android:textColor="@color/font_text" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/rl_flowlayout"
+                        style="@style/confirmation_loan_outer"
+                        android:paddingTop="0dp"
+                        android:visibility="gone">
+
+                        <com.two.emergencylending.widget.FlowTagLayout
+                            android:id="@+id/flowlayout"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginBottom="2dp"
+                            android:layout_marginTop="2dp"
+                            android:background="@color/transparent" />
+                    </RelativeLayout>
+
+
+                    <include layout="@layout/line_d" />
+
+                    <RelativeLayout
+                        style="@style/confirmation_loan_outer"
+                        android:visibility="gone">
+
+                        <TextView
+                            style="@style/confirmation_loan_left"
+                            android:text="借款用途"
+                            android:textColor="@color/font_text" />
+
+                        <TextView
+                            android:id="@+id/usage"
+                            style="@style/confirmation_loan_right"
+                            android:text=""
+                            android:textColor="@color/font_text" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <include layout="@layout/line_d" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/cancel"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/shaper_corner_white"
+                        android:gravity="center"
+                        android:padding="15dp"
+                        android:text="取消"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <View
+                        android:layout_width="1px"
+                        android:layout_height="match_parent"
+                        android:background="@color/register_line"></View>
+
+                    <TextView
+                        android:id="@+id/confirm"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/shaper_corner_white"
+                        android:gravity="center"
+                        android:padding="15dp"
+                        android:text="确定"
+                        android:textColor="@color/circle_color"
+                        android:textSize="16sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+
+
+    </LinearLayout>
+</LinearLayout>

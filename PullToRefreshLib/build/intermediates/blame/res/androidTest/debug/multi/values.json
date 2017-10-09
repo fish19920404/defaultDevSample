@@ -1,0 +1,408 @@
+[
+    {
+        "outputFile": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 43,
+                    "endOffset": 137
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 43,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 142,
+                    "endColumn": 40,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 40,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 42,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 42,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 44,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 44,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 43,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 43,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2126,
+                    "endColumn": 63,
+                    "endOffset": 2185
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1706,
+                        "endColumn": 63,
+                        "endOffset": 1765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2190,
+                    "endColumn": 63,
+                    "endOffset": 2249
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1770,
+                        "endColumn": 63,
+                        "endOffset": 1829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2254,
+                    "endColumn": 54,
+                    "endOffset": 2304
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1834,
+                        "endColumn": 54,
+                        "endOffset": 1884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2309,
+                    "endColumn": 56,
+                    "endOffset": 2361
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1889,
+                        "endColumn": 56,
+                        "endOffset": 1941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2366,
+                    "endColumn": 54,
+                    "endOffset": 2416
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1946,
+                        "endColumn": 54,
+                        "endOffset": 1996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2421,
+                    "endColumn": 37,
+                    "endOffset": 2454
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2001,
+                        "endColumn": 37,
+                        "endOffset": 2034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2459,
+                    "endColumn": 39,
+                    "endOffset": 2494
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2039,
+                        "endColumn": 39,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2499,
+                    "endColumn": 36,
+                    "endOffset": 2531
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 36,
+                        "endOffset": 2111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2536,
+                    "endColumn": 101,
+                    "endOffset": 2633
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2116,
+                        "endColumn": 101,
+                        "endOffset": 2213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2638,
+                    "endColumn": 113,
+                    "endOffset": 2747
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2218,
+                        "endColumn": 113,
+                        "endOffset": 2327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2752,
+                    "endColumn": 107,
+                    "endOffset": 2855
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2332,
+                        "endColumn": 107,
+                        "endOffset": 2435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2860,
+                    "endColumn": 71,
+                    "endOffset": 2927
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2440,
+                        "endColumn": 71,
+                        "endOffset": 2507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2932,
+                    "endColumn": 69,
+                    "endOffset": 2997
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2512,
+                        "endColumn": 69,
+                        "endOffset": 2577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3002,
+                    "endColumn": 77,
+                    "endOffset": 3075
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2582,
+                        "endColumn": 77,
+                        "endOffset": 2655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3080,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3725
+                },
+                "from": {
+                    "file": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1120
+                    }
+                }
+            }
+        ]
+    }
+]

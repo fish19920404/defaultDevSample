@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_dialog.xml",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\image_load_view.xml",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\layout\\image_load_view.xml"
+    },
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\load_view.xml",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\layout\\load_view.xml"
+    },
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]

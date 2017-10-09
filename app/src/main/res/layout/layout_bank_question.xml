@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_fill_white">
+
+        <TextView
+            android:id="@+id/tv_bank"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="8dp"
+            android:padding="8dp"
+            android:gravity="center_vertical"
+            android:text="@string/bank"
+            android:textSize="14sp" />
+
+        <View
+            android:id="@+id/view_bank"
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:layout_below="@id/tv_bank"
+            android:background="@color/loan_bg" />
+
+        <TextView
+            android:id="@+id/tv_know"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_below="@id/view_bank"
+            android:gravity="center"
+            android:text="知道了"
+            android:textColor="@color/circle_color" />
+    </RelativeLayout>
+</RelativeLayout>

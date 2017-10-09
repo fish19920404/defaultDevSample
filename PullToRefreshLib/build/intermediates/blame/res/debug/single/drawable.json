@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\debug\\drawable\\ptr_progress_bar.xml",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\src\\main\\res\\drawable\\ptr_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\debug\\drawable\\aa_dialog_bg.xml",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\drawable\\aa_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\shapeloading\\build\\intermediates\\bundles\\default\\res\\drawable\\shadow.xml"
+    }
+]

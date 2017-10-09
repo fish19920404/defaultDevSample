@@ -1,0 +1,100 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- 对话框样式 -->
+    <style name="BaseDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item><!--模糊-->
+    </style>
+
+    <!-- 底部tab -->
+    <style name="maintab_toolbar_button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:drawablePadding">2dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@drawable/maintab_text_color_selector</item>
+    </style>
+
+    <!-- customDialog -->
+    <style name="transparentFrameWindowStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/photo_choose_bg</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!-- 底部弹起动画 -->
+    <style name="main_menu_animstyle">
+        <item name="android:windowEnterAnimation">@anim/photo_dialog_in_anim</item>
+        <item name="android:windowExitAnimation">@anim/photo_dialog_out_anim</item>
+    </style>
+
+    <!-- 借款用途 -->
+    <style name="dialog_loan_usage">
+        <item name="android:windowEnterAnimation">@anim/transparent_in</item>
+        <item name="android:windowExitAnimation">@anim/transparent_out</item>
+    </style>
+
+    <!--分享邀请图片-->
+    <style name="share_invite_img">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <!--分享邀请文字-->
+    <style name="share_invite">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:textColor">@color/home_loan_period_textcolor</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:visibility">visible</item>
+    </style>
+
+    <!--借款确认外层-->
+    <style name="confirmation_loan_outer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">15dp</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <!--借款确认左-->
+    <style name="confirmation_loan_left">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">@color/amont_of_loan_textcolor</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <!--借款确认右-->
+    <style name="confirmation_loan_right">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">@color/amont_of_loan_textcolor</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+
+</resources>

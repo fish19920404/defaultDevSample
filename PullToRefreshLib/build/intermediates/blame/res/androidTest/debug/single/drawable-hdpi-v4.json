@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "E:\\jjt-new-app\\jjt-new-droid\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    }
+]
